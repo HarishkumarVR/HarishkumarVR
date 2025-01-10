@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harishkumar
-- 👀 I’m interested in science and technology. 
-- 🌱 I’m currently learning b.tech information technology
+- I'm a 4th year B.Tech student in Information Technology.
+- I'm passionate about web development and networking.
 
 
 <!---
